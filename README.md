@@ -17,7 +17,7 @@
 [Demo](http://stylish-656de.firebaseapp.com)
 
 #### Stylish (Team, 3 people, winner)
-[Demo] (https://lsp-stylish.firebaseapp.com/)
+[Demo](https://lsp-stylish.firebaseapp.com/)
 
 #### Todo list 
 [Demo](https://skyying.github.io/lets-do-it/dist/index.html) [Code](https://github.com/skyying/lets-do-it)
