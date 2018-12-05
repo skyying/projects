@@ -6,7 +6,7 @@
 ### TetrisV
 [Demo](https://tetris-f1a05.firebaseapp.com)  |  [Code](https://skyying.github.io/tetrisV/)
 
-### F2E Chanllage 
+### F2E challenge 
 - Filter [Demo](https://skyying.github.io/F2E-challenge/Week-2-Filter/dist/index.html) | [Code](https://github.com/skyying/F2E-challenge/tree/master/Week-2-Filter/src)
 - Game [Demo](https://skyying.github.io/F2E-challenge/Week-7-Game/dist/index.html) | [Code](https://github.com/skyying/F2E-challenge/tree/master/Week-7-Game/src)
 - Parallax-scrolling [Demo](https://skyying.github.io/F2E-challenge/Week-8-Parallax-Scrolling/dist/index.html) | [Code](https://github.com/skyying/F2E-challenge/tree/master/Week-8-Parallax-Scrolling/src)
