@@ -25,5 +25,5 @@
 #### Sliding puzzle game - within 8 hour
 [Demo](https://puzzle-9788e.firebaseapp.com/)  [Code](https://github.com/skyying/sliding-puzzle-game)
 
-#### Bridge (Fianl Project)
+#### Bridge (Final Project)
 [Demo](https://bridge.tw) [Code](https://github.com/skyying/bridge-game)
